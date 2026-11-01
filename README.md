@@ -14,7 +14,7 @@ Then open `http://localhost:8765`.
 
 ## Publish with GitHub Pages
 
-The GitHub Actions workflow in `.github/workflows/deploy.yml` deploys the static site whenever changes are pushed to `main`. In the repository settings, enable GitHub Pages and select **GitHub Actions** as the build and deployment source. The site will then be available at `https://anishkumarswamy.github.io/financialconsultancy/`.
+The GitHub Actions workflow in `.github/workflows/deploy.yml` deploys the static site whenever changes are pushed to `main`. In the repository settings, enable GitHub Pages and select **GitHub Actions** as the build and deployment source. The site will then be available at `https://anishkumarswamy.github.io/fincon/`.
 
 ## Before publishing
 
